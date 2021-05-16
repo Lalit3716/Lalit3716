@@ -1,35 +1,34 @@
 import pygame,sys
-# from pygame.constants import K_3, K_KP_ENTER
 from pygame import mixer
 
 pygame.init() #Initializing pygame 
 screen = pygame.display.set_mode((800,600)) #Creating Screen (width,height)
 ball = pygame.image.load('ball.png') #Loading Ball Image
-icon = pygame.image.load('pinball.png')
-paddle1 = pygame.image.load('paddle1.png') #Loading Paddle Image
-paddle2 = pygame.image.load('paddle1.png')
-mixer.music.load('background.ogg')
-mixer.music.play(-1)
+icon = pygame.image.load('pinball.png') #Loading Icon Image For Title Bar
+paddle1 = pygame.image.load('paddle1.png') #Loading Paddle Image For Player 1
+paddle2 = pygame.image.load('paddle1.png') #Loading Paddle Image For Player 2
+mixer.music.load('background.ogg') #Loading Background Music
+mixer.music.play(-1) #Playing Background On Loop
 pygame.display.set_icon(icon) #Setting Icon On title Bar
-pygame.display.set_caption('Pong')
+pygame.display.set_caption('Pong') #Setting Caption Of Title Bar
 # Ball Co-ordinates
 ball_x = 0
 ball_y = 0
-ball_dx = 0.3
-ball_dy = 0.3
+ball_dx = 0.3 #Change In X Coordinate Of Ball
+ball_dy = 0.3 #Change In Y Coordinate Of Ball
 # Paddle1 Co-ordinates
 paddle1_x = 15
 paddle1_y = 200
-change1 =0
+change1 = 0            #This Variable Will Change Y-Coordinate Of Paddle 1
 # paddle 2 movements
 paddle2_x = 775
 paddle2_y = 200
-change2 = 0
+change2 = 0            #This variable Will Change Y-Coordinate Of Paddle 2 
 
-score_value1 = 0
-score_value2 = 0
-score1 = pygame.font.Font('freesansbold.ttf',100)
-score2 = pygame.font.Font('freesansbold.ttf',100)
+score_value1 = 0       # Storing Score Of Player 1 
+score_value2 = 0       # Storing Score Of Player 2
+score1 = pygame.font.Font('freesansbold.ttf',100)    # Creating Font to Display On Screen  
+score2 = pygame.font.Font('freesansbold.ttf',100)    # Creating Font To Display on Screen
 game_over_text = pygame.font.Font('freesansbold.ttf',62)
 
 def draw_ball(x,y):          # Drawing ball On Screen
@@ -55,8 +54,8 @@ def game_over():
     
 # Main Loop
 while True:
-    screen.fill((0,0,0))
-    pygame.draw.line(screen,(255,0,0),(0,0),(400,0),10)
+    screen.fill((0,0,0)) #Filling Screen With Black Color
+    pygame.draw.line(screen,(255,0,0),(0,0),(400,0),10)         #Drawing Border Lines from 59-65
     pygame.draw.line(screen,(255,0,0),(0,0),(0,600),10)
     pygame.draw.line(screen,(255,0,0),(0,600),(400,600),10)
     pygame.draw.line(screen,(0,0,255),(400,0),(800,0),10)
