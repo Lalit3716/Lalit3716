@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lalit3716
-- 👀 I’m interested in Python 
+- 👀 I’m interested in Web Development 
 - 🌱 Done learning Backend Framework ExpressJS/NodeJS 
 - Now Learning Front End Framework Reactjs
 - Currently working on a pygame project
