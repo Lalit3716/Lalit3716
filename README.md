@@ -180,8 +180,10 @@
 
 ----
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
-<div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Lalit3716&theme=tokyonight" alt="stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalit3716&theme=tokyonight" alt="streak-stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit3716&theme=tokyonight&hide=ejs,html" alt="top-langs" />
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit3716&theme=tokyonight&layout=compact&hide=ejs,html" alt="top-langs" height="200px" />
 </div>
