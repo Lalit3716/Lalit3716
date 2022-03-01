@@ -120,20 +120,6 @@
   </a> 
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  </a>
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
-  </a>
-  <a href="https://vercel.com" target="_blank">
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
-  </a>
-</p>
-
 <h3 align="center">Version Control</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
