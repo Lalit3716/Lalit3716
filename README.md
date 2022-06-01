@@ -4,10 +4,8 @@
 
 <h1 align="center">Hi, I'm Lalit Kumar Singh<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate web developer, open source enthusiast and a student from India.</h3>
-
-
-- 🌱 I’m currently learning **Nest js and Flutter** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
+  
+- 🌱 I’m currently learning **Nest js and Flutter** 
 - 👯 I’m looking to collaborate on **MERN Stack Applications**
 
 - 🤝 I’m looking for help with **Different Design Patterns and Flutter**
@@ -18,10 +16,8 @@
 
 ---
 
-
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
  
-
 <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
