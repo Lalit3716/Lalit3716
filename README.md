@@ -6,9 +6,9 @@
 <img width="100" height="100" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 </h1>
   
-<h3 font-size="20" align="center">A passionate web developer, open source enthusiast and a student from India.</h3>
+<h3 font-size="20" align="center">A passionate full stack web developer and open source enthusiast.</h3>
   
-- 🌱 I’m currently learning **Nest js and Flutter** 
+- 🌱 I’m currently learning **GoLang** 
 - 👯 I’m looking to collaborate on **MERN Stack Applications**
 
 - 🤝 I’m looking for help with **Different Design Patterns and Flutter**
