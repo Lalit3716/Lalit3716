@@ -170,6 +170,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalit3716&theme=tokyonight" alt="streak-stats" />
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit3716&theme=tokyonight&layout=compact&hide=ejs,html" alt="top-langs" height="200px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit3716&theme=tokyonight&layout=compact&hide=ejs,html,css,solidity" alt="top-langs" height="200px" />
 </div>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Lalit3716&theme=react-dark" alt="Lalit3716" /></p>
