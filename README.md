@@ -109,6 +109,9 @@
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" />
   </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  </a>
 </p>
 
 <h3 align="center">Database</h3>
@@ -116,7 +119,11 @@
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
-  </a> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=whitehttps://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="MySQL"/> 
+  </a>
 </p>
 
 <h3 align="center">Version Control</h3>
@@ -164,7 +171,10 @@
 </p>
 
 ----
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalit3716&theme=tokyonight" alt="streak-stats" />
+</div>
+<!-- <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Lalit3716&theme=tokyonight" alt="stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalit3716&theme=tokyonight" alt="streak-stats" />
@@ -172,4 +182,4 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit3716&theme=tokyonight&layout=compact&hide=ejs,html,css,solidity" alt="top-langs" height="200px" />
 </div>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Lalit3716&theme=react-dark" alt="Lalit3716" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Lalit3716&theme=react-dark" alt="Lalit3716" /></p> -->
