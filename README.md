@@ -8,14 +8,14 @@
   
 <h3 font-size="20" align="center">A passionate full stack web developer and open source enthusiast.</h3>
   
-- 🌱 I’m currently learning **GoLang** 
+- 🌱 I’m currently actively contributing to [@Zulip](https://github.com/zulip/zulip)
 - 👯 I’m looking to collaborate on **MERN Stack Applications**
 
-- 🤝 I’m looking for help with **Different Design Patterns and Flutter**
+- 🤝 I’m looking for help with **Different Design Patterns**
 
 - 💬 Ask me about **Development**
 
-- ⚡ Fun fact **I am master of CtrlC + V 😆**
+- ⚡ Fun fact **I can quit vim! 😅**
 
 ---
 
