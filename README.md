@@ -8,7 +8,8 @@
   
 <h3 font-size="20" align="center">A passionate full stack web developer and open source enthusiast.</h3>
   
-- 🌱 I’m currently actively contributing to [@Zulip](https://github.com/zulip/zulip)
+- 🌱 I’m currently passively contributing to [@Zulip](https://github.com/zulip/zulip)
+
 - 👯 I’m looking to collaborate on **MERN Stack Applications**
 
 - 🤝 I’m looking for help with **Different Design Patterns**
